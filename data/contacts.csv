@@ -1,0 +1,5 @@
+name,email,company,position
+김철수,chulsoo@example.com,ABC 주식회사,마케팅 팀장
+이영희,younghee@example.com,XYZ 코퍼레이션,영업 이사
+박민준,minjun@example.com,테크 스타트업,CTO
+홍길동,invalid-email,테스트 회사,테스터
